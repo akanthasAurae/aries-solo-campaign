@@ -29,96 +29,6 @@
       "height": 105
     },
     {
-      "id": "fcb22e23e98f8a0e",
-      "type": "text",
-      "text": "# 81-85",
-      "x": -1740,
-      "y": 1646,
-      "width": 186,
-      "height": 105
-    },
-    {
-      "id": "61d62b5e60ee1437",
-      "type": "text",
-      "text": "# 86-90",
-      "x": -1740,
-      "y": 1751,
-      "width": 186,
-      "height": 105
-    },
-    {
-      "id": "bf624d54e2795940",
-      "type": "text",
-      "text": "# 91-95",
-      "x": -1740,
-      "y": 1856,
-      "width": 186,
-      "height": 105
-    },
-    {
-      "id": "0127169acfe0acea",
-      "type": "text",
-      "text": "# 96-100",
-      "x": -1740,
-      "y": 1961,
-      "width": 186,
-      "height": 105
-    },
-    {
-      "id": "0e897d1d0d70bd3c",
-      "type": "text",
-      "text": "# Chaotic Neutral",
-      "x": -1314,
-      "y": 1016,
-      "width": 334,
-      "height": 105
-    },
-    {
-      "id": "f91c9652ecaec2a5",
-      "type": "text",
-      "text": "# Lawful Evil",
-      "x": -1314,
-      "y": 1121,
-      "width": 334,
-      "height": 315
-    },
-    {
-      "id": "4f0b118be7978a4e",
-      "type": "text",
-      "text": "# Neutral Evil",
-      "x": -1314,
-      "y": 1436,
-      "width": 334,
-      "height": 315
-    },
-    {
-      "id": "4fa0981aa3b6eade",
-      "type": "text",
-      "text": "# Chaotic Evil",
-      "x": -1314,
-      "y": 1751,
-      "width": 334,
-      "height": 315
-    },
-    {
-      "id": "a74b0029df70d57d",
-      "type": "text",
-      "text": "# Female",
-      "x": -1554,
-      "y": 1016,
-      "width": 240,
-      "height": 1048
-    },
-    {
-      "id": "f038e8397de3d2ad",
-      "type": "file",
-      "file": "Pasted image 20240321034347.png",
-      "x": -980,
-      "y": 1169,
-      "width": 540,
-      "height": 1795
-    },
-    {
       "id": "595a3220caf327c2",
       "type": "text",
       "text": "# 51-55",
@@ -155,31 +65,76 @@
       "height": 105
     },
     {
-      "id": "04ca47d690031a99",
+      "id": "7aea2a50b563cf57",
       "type": "text",
-      "text": "# **class table**",
-      "x": -980,
+      "text": "# 1-5",
+      "x": -1740,
+      "y": -32,
+      "width": 186,
+      "height": 105
+    },
+    {
+      "id": "7d8ff258d9a46f8b",
+      "type": "text",
+      "text": "# 6-10",
+      "x": -1740,
+      "y": 73,
+      "width": 186,
+      "height": 105
+    },
+    {
+      "id": "4500908f0508e898",
+      "type": "text",
+      "text": "# 11-15",
+      "x": -1740,
+      "y": 178,
+      "width": 186,
+      "height": 105
+    },
+    {
+      "id": "7474f6ad17a2a2f7",
+      "type": "text",
+      "text": "# D100",
+      "x": -1740,
+      "y": -90,
+      "width": 186,
+      "height": 58
+    },
+    {
+      "id": "0e897d1d0d70bd3c",
+      "type": "text",
+      "text": "# Chaotic Neutral",
+      "x": -1314,
       "y": 1016,
-      "width": 540,
-      "height": 74
+      "width": 334,
+      "height": 105
     },
     {
-      "id": "2a6abecf5f84500e",
+      "id": "f91c9652ecaec2a5",
       "type": "text",
-      "text": "# d12",
-      "x": -980,
-      "y": 1090,
-      "width": 160,
-      "height": 79
+      "text": "# Lawful Evil",
+      "x": -1314,
+      "y": 1121,
+      "width": 334,
+      "height": 315
     },
     {
-      "id": "332c846a87b2cd09",
+      "id": "4f0b118be7978a4e",
       "type": "text",
-      "text": "# Class",
-      "x": -820,
-      "y": 1090,
-      "width": 380,
-      "height": 79
+      "text": "# Neutral Evil",
+      "x": -1314,
+      "y": 1436,
+      "width": 334,
+      "height": 315
+    },
+    {
+      "id": "a74b0029df70d57d",
+      "type": "text",
+      "text": "# Female",
+      "x": -1554,
+      "y": 1016,
+      "width": 240,
+      "height": 1048
     },
     {
       "id": "31b90c457b5bb12c",
@@ -189,15 +144,6 @@
       "y": -90,
       "width": 334,
       "height": 58
-    },
-    {
-      "id": "471aaf8c1c6dfd2b",
-      "type": "text",
-      "text": "# Lawful Good",
-      "x": -1314,
-      "y": -32,
-      "width": 334,
-      "height": 315
     },
     {
       "id": "0868ce44246fb325",
@@ -216,6 +162,43 @@
       "y": -90,
       "width": 240,
       "height": 58
+    },
+    {
+      "id": "196ff4f972669329",
+      "type": "text",
+      "text": "pg. 98, 99, 100, 101, 102, 103",
+      "isStartNode": false,
+      "x": -1740,
+      "y": -220,
+      "width": 1300,
+      "height": 50
+    },
+    {
+      "id": "335e7b2a78f40341",
+      "type": "text",
+      "text": "# **NPC GENERATOR**",
+      "x": -1740,
+      "y": -170,
+      "width": 1300,
+      "height": 80
+    },
+    {
+      "id": "0f4fbbbe6b630638",
+      "type": "text",
+      "text": "# 46-50",
+      "x": -1740,
+      "y": 911,
+      "width": 186,
+      "height": 105
+    },
+    {
+      "id": "471aaf8c1c6dfd2b",
+      "type": "text",
+      "text": "# Lawful Good",
+      "x": -1314,
+      "y": -32,
+      "width": 334,
+      "height": 315
     },
     {
       "id": "98d08906e4e529ae",
@@ -272,6 +255,87 @@
       "height": 1046
     },
     {
+      "id": "c879709c6adeec06",
+      "type": "text",
+      "text": "# 16-20",
+      "x": -1740,
+      "y": 283,
+      "width": 186,
+      "height": 105
+    },
+    {
+      "id": "33c5b74382d79a6c",
+      "type": "text",
+      "text": "# 21-25",
+      "x": -1740,
+      "y": 388,
+      "width": 186,
+      "height": 105
+    },
+    {
+      "id": "936ebb30b50417d3",
+      "type": "text",
+      "text": "# Male",
+      "x": -1554,
+      "y": -32,
+      "width": 240,
+      "height": 1048
+    },
+    {
+      "id": "fcb22e23e98f8a0e",
+      "type": "text",
+      "text": "# 81-85",
+      "x": -1740,
+      "y": 1646,
+      "width": 186,
+      "height": 105
+    },
+    {
+      "id": "61d62b5e60ee1437",
+      "type": "text",
+      "text": "# 86-90",
+      "x": -1740,
+      "y": 1751,
+      "width": 186,
+      "height": 105
+    },
+    {
+      "id": "bf624d54e2795940",
+      "type": "text",
+      "text": "# 91-95",
+      "x": -1740,
+      "y": 1856,
+      "width": 186,
+      "height": 105
+    },
+    {
+      "id": "0127169acfe0acea",
+      "type": "text",
+      "text": "# 96-100",
+      "x": -1740,
+      "y": 1961,
+      "width": 186,
+      "height": 105
+    },
+    {
+      "id": "4fa0981aa3b6eade",
+      "type": "text",
+      "text": "# Chaotic Evil",
+      "x": -1314,
+      "y": 1751,
+      "width": 334,
+      "height": 315
+    },
+    {
+      "id": "f038e8397de3d2ad",
+      "type": "file",
+      "file": "Pasted image 20240321034347.png",
+      "x": -980,
+      "y": 1169,
+      "width": 540,
+      "height": 1795
+    },
+    {
       "id": "e93ab64670d1533e",
       "type": "text",
       "text": "# 31-35",
@@ -299,61 +363,6 @@
       "height": 105
     },
     {
-      "id": "196ff4f972669329",
-      "type": "text",
-      "text": "pg. 98, 99, 100, 101, 102, 103",
-      "isStartNode": false,
-      "x": -1740,
-      "y": -220,
-      "width": 1300,
-      "height": 50
-    },
-    {
-      "id": "7aea2a50b563cf57",
-      "type": "text",
-      "text": "# 1-5",
-      "x": -1740,
-      "y": -32,
-      "width": 186,
-      "height": 105
-    },
-    {
-      "id": "7d8ff258d9a46f8b",
-      "type": "text",
-      "text": "# 6-10",
-      "x": -1740,
-      "y": 73,
-      "width": 186,
-      "height": 105
-    },
-    {
-      "id": "4500908f0508e898",
-      "type": "text",
-      "text": "# 11-15",
-      "x": -1740,
-      "y": 178,
-      "width": 186,
-      "height": 105
-    },
-    {
-      "id": "c879709c6adeec06",
-      "type": "text",
-      "text": "# 16-20",
-      "x": -1740,
-      "y": 283,
-      "width": 186,
-      "height": 105
-    },
-    {
-      "id": "33c5b74382d79a6c",
-      "type": "text",
-      "text": "# 21-25",
-      "x": -1740,
-      "y": 388,
-      "width": 186,
-      "height": 105
-    },
-    {
       "id": "16d4685735ece7fd",
       "type": "text",
       "text": "# 26-30",
@@ -363,40 +372,31 @@
       "height": 105
     },
     {
-      "id": "335e7b2a78f40341",
+      "id": "04ca47d690031a99",
       "type": "text",
-      "text": "# **NPC GENERATOR**",
-      "x": -1740,
-      "y": -170,
-      "width": 1300,
-      "height": 80
+      "text": "# **class table**",
+      "x": -980,
+      "y": 1016,
+      "width": 540,
+      "height": 74
     },
     {
-      "id": "7474f6ad17a2a2f7",
+      "id": "2a6abecf5f84500e",
       "type": "text",
-      "text": "# D100",
-      "x": -1740,
-      "y": -90,
-      "width": 186,
-      "height": 58
+      "text": "# d12",
+      "x": -980,
+      "y": 1090,
+      "width": 160,
+      "height": 79
     },
     {
-      "id": "936ebb30b50417d3",
+      "id": "332c846a87b2cd09",
       "type": "text",
-      "text": "# Male",
-      "x": -1554,
-      "y": -32,
-      "width": 240,
-      "height": 1048
-    },
-    {
-      "id": "0f4fbbbe6b630638",
-      "type": "text",
-      "text": "# 46-50",
-      "x": -1740,
-      "y": 911,
-      "width": 186,
-      "height": 105
+      "text": "# Class",
+      "x": -820,
+      "y": 1090,
+      "width": 380,
+      "height": 79
     },
     {
       "id": "0156d16db606820c",
@@ -832,6 +832,15 @@
       "height": 56
     },
     {
+      "id": "8e4afd5a9ec9dcf4",
+      "type": "text",
+      "text": "## VERY EASY",
+      "x": -233,
+      "y": -20,
+      "width": 250,
+      "height": 60
+    },
+    {
       "id": "dd93b9d3fcf37ba6",
       "type": "text",
       "text": "## -6",
@@ -839,15 +848,6 @@
       "x": 367,
       "y": -20,
       "width": 120,
-      "height": 60
-    },
-    {
-      "id": "8e4afd5a9ec9dcf4",
-      "type": "text",
-      "text": "## VERY EASY",
-      "x": -233,
-      "y": -20,
-      "width": 250,
       "height": 60
     },
     {
@@ -897,6 +897,42 @@
       "height": 60
     },
     {
+      "id": "de0f2cfc9632ff33",
+      "type": "text",
+      "text": "## UNLIKELY",
+      "x": 117,
+      "y": 100,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3cb519f4e0796fd6",
+      "type": "text",
+      "text": "## POSSIBLE",
+      "x": 117,
+      "y": 160,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "b38d423d41dea18f",
+      "type": "text",
+      "text": "## 15",
+      "x": 17,
+      "y": 100,
+      "width": 100,
+      "height": 60
+    },
+    {
+      "id": "0ba2c4fadabd88c0",
+      "type": "text",
+      "text": "## 20",
+      "x": 17,
+      "y": 160,
+      "width": 100,
+      "height": 60
+    },
+    {
       "id": "8abe1280afc31295",
       "type": "text",
       "text": "## +2",
@@ -924,24 +960,6 @@
       "height": 60
     },
     {
-      "id": "de0f2cfc9632ff33",
-      "type": "text",
-      "text": "## UNLIKELY",
-      "x": 117,
-      "y": 100,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "3cb519f4e0796fd6",
-      "type": "text",
-      "text": "## POSSIBLE",
-      "x": 117,
-      "y": 160,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "42087babc4e01fdb",
       "type": "text",
       "text": "## LIKELY",
@@ -966,24 +984,6 @@
       "x": 117,
       "y": 340,
       "width": 250,
-      "height": 60
-    },
-    {
-      "id": "b38d423d41dea18f",
-      "type": "text",
-      "text": "## 15",
-      "x": 17,
-      "y": 100,
-      "width": 100,
-      "height": 60
-    },
-    {
-      "id": "0ba2c4fadabd88c0",
-      "type": "text",
-      "text": "## 20",
-      "x": 17,
-      "y": 160,
-      "width": 100,
       "height": 60
     },
     {
